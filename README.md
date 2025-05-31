@@ -1,6 +1,6 @@
 # app_tcc
 
-Projeto de um aplicativo mobile para o TCC/programação de dispositivos móveis
+Projeto de um aplicativo mobile para o TCC 2/Programação de dispositivos móveis do curso de Sistemas p/ Internet UFSM.
 
 ## Getting Started
 
